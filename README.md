@@ -2,6 +2,8 @@
 
 > A Vet Clinic relational database.
 
+![Diagram](https://github.com/2bleO/vet-clinic/blob/182f3413814f2b79ccc6ade1890812f12be8d314/diagram.png)
+
 
 ## Getting Started
 
